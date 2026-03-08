@@ -1,0 +1,20 @@
+{
+  "name": "plcp",
+  "description": "PLC Programming skill for generating ladder logic diagrams from sequences of operations and P&IDs for industrial automation",
+  "version": "1.0.0",
+  "author": {
+    "name": "HonorCodes"
+  },
+  "repository": "https://github.com/HonorCodes/plcp-skill",
+  "license": "MIT",
+  "keywords": [
+    "plc",
+    "ladder-logic",
+    "industrial-automation",
+    "controls-engineering",
+    "iec-61131",
+    "rockwell",
+    "siemens",
+    "allen-bradley"
+  ]
+}
